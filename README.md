@@ -13,7 +13,3 @@ would be applied to a production, real-world project. As such it should include 
 tests, documentation, and any modularity or extensibility that you would develop for
 a real project, as well as follow any coding standards or best practices and styles or
 formatting that you would submit in a production pull request.
-
-## Constraints
-While we will not be deploying this to any cloud provider, it should be written to be
-deployed as an AWS Lambda/GCP Cloud Function.
