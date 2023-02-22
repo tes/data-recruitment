@@ -13,3 +13,14 @@ would be applied to a production, real-world project. As such it should include 
 tests, documentation, and any modularity or extensibility that you would develop for
 a real project, as well as follow any coding standards or best practices and styles or
 formatting that you would submit in a production pull request.
+
+## Instructions
+
+### Extract
+
+Target endpoint is `https://restcountries.com/v3.1/all`.
+
+### Transform
+
+Take part of the response object to be saved in a local flat file (exact details to be shared
+during live exercise).
